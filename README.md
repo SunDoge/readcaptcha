@@ -1,0 +1,2 @@
+# readcaptcha
+Captcha recognition.
